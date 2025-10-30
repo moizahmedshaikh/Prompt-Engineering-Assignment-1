@@ -69,4 +69,20 @@ The article explains the internal logic behind LLMs, their limitations, memory m
 - **Fine-Tuning:** Customizes base models for domain-specific tasks.  
 - **RAG (Retrieval-Augmented Generation):** Adds external knowledge retrieval to improve accuracy and reduce hallucination.
 
-### ⚙️ Example (Simplified Logic):
+
+
+---
+
+## ✨ Submitted By
+
+**Moiz Ahmed**  
+📍 Karachi, Pakistan  
+📧 [moizaman905@gmail.com](mailto:moizaman905@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/moiz-ahmed905/) | [GitHub](https://github.com/moizahmedshaikh) | [Portfolio](https://moiz-port-folio-web.vercel.app/)
+
+---
+
+> “Artificial Intelligence is not just a tool it’s a mirror reflecting human intelligence, creativity, and curiosity.”
+
+---
+
